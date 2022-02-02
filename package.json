@@ -11,10 +11,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node": "^16.13.2",
-    "knex": "0.95.11",
-    "directus": "^9.5.0",
-    "pg": "^8.7.1"
+    "node": "16.13.2",
+    "knex": "0.21.1",
+    "objection": "2.1.3",
+    "directus": "9.5.0",
+    "pg": "8.0.3"
   },
   "engines": {
     "node": "^16.13.2",
